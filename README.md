@@ -8,7 +8,9 @@ You can also send me an email at
 procopio.gabriel@proton.me
 ```
 or 
- ```procopio-gabriel@outlook.com```
+ ```
+procopio-gabriel@outlook.com
+ ```
  **Careful**: the second email address has a dash instead of a dot.
 
 # Links:
